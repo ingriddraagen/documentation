@@ -1,0 +1,55 @@
+.vippsorange {
+  color: #FF5B24 !important;
+}
+
+.lightvippsorange {
+  color: #FDF4ED !important;
+
+}
+
+.vippspurple {
+  color: #4D3280 !important;
+
+}
+
+.vippsblue {
+  color: #59CBE8 !important;
+
+}
+
+.vippsblack {
+  color: #161225 !important;
+}
+
+.vippsblueberry {
+  color: #49367E !important;
+}
+
+--------
+
+.vippsorange-background {
+  background-color: #FF5B24 !important;
+}
+
+.lightvippsorange-background {
+  background-color: #FDF4ED !important;
+
+}
+
+.vippspurple-background {
+  background-color: #4D3280 !important;
+
+}
+
+.vippsblue-background {
+  background-color: #59CBE8 !important;
+
+}
+
+.vippsblack-background {
+  background-color: #161225 !important;
+}
+
+.vippsblueberry-background {
+  background-color: #49367E !important;
+}
