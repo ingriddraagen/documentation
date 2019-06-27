@@ -25,8 +25,6 @@
   color: #49367E !important;
 }
 
---------
-
 .vippsorange-background {
   background-color: #FF5B24 !important;
 }
@@ -52,4 +50,21 @@
 
 .vippsblueberry-background {
   background-color: #49367E !important;
+}
+
+p, h2 {
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  padding-left: 5vw;
+  max-width: 60em;
+}
+
+header, main, footer {
+  padding-left: 300px;
+}
+
+@media only screen and (max-width : 992px) {
+  header, main, footer {
+    padding-left: 0;
+  }
 }
